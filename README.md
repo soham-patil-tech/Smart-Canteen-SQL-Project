@@ -80,5 +80,3 @@ Smart-Canteen-SQL-Project/
 
 
 
-## 📂 Project Structure
-
