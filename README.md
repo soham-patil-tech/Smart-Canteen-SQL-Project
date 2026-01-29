@@ -77,6 +77,5 @@ Smart-Canteen-SQL-Project/
    sample_data.sql
 3. Execute analytical queries from:
    analytics_queries.sql
-
-
-
+```
+-By Soham Patil
