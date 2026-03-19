@@ -1,4 +1,4 @@
-# 🍽️ Smart Canteen Analytics System (SQL Project)
+# 🍽️ Smart Canteen Analytics System
 
 A beginner-friendly yet unique **SQL-based database project** designed to manage canteen operations and analyze sales data efficiently.  
 This project focuses purely on **database design and SQL queries**, making it ideal for learning and showcasing SQL fundamentals on GitHub.
