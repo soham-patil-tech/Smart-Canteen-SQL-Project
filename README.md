@@ -64,7 +64,6 @@ Smart-Canteen-SQL-Project/
 
 - SQL (MySQL compatible)
 - Relational Database Design
-- ER Modeling
 
 ---
 
